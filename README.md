@@ -1,4 +1,4 @@
-Copyright 2018, Thomas Siozos, All rights reserved.
+Copyright 2017, Thomas Siozos, All rights reserved.
 
 # Unity
 CubeGame
