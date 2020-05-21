@@ -1,5 +1,6 @@
-Copyright 2017, Thomas Siozos, All rights reserved.
+#Cube Game
 
-# Unity
-CubeGame
+## Copyright
+
+[MIT](https://github.com/SiozosThomas/Unity/blob/master/LICENSE) © 2017 Thomas Siozos
 
